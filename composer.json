@@ -1,0 +1,19 @@
+{
+    "name": "sherpa/sherpa-telemetry",
+    "description": "Official sherpa's framework telemetry library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sherpa\\SherpaTelemetry\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "quentinformatique"
+        },
+        {
+            "name": "belicfr"
+        }
+    ],
+    "require": {}
+}
